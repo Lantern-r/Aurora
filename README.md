@@ -19,7 +19,7 @@
 
 [@Decade](https://wulidecade.cn/)/Web
 
-[@Domineto](blog.domineto.top)/Web
+[@Richard](https://blog.domineto.top)/Web
 
 [@Apeng](https://apeng.fun)/Re
 
