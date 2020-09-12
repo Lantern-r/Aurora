@@ -17,9 +17,11 @@ https://ctf-wiki.github.io/ctf-wiki/
 
 [picoCTF](https://picoctf.com/)： CMU主办的面向美国高中生的CTF比赛，从基础开始层层递进。
 
-[中科大新生赛](https://hack2018.lug.ustc.edu.cn/)：中科大2018的新生赛题目，环境都还在，开始的题目也十分友好。
+[中科大新生赛 2019](https://hack2019.lug.ustc.edu.cn/)：中科大2019的新生赛题目，环境都还在，开始的题目也十分友好。
 
 [BugkuCTF](https://ctf.bugku.com/)： 平台是免费的CTF训练平台，题目数量多网上解析全面对新手入门友好。
+
+[BUUCTF](https://buuoj.cn/): 北京联合大学的平台，新手友好向，还有各大比赛的题目
 
 ## Web
 
