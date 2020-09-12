@@ -25,9 +25,15 @@
 
 [@Lantern](https://lantern.cool/)/Re
 
+[@Nuoye](https://nuoye-blog.github.io/)/Pwn
+
 [@Obliviate](https://cp32.github.io/)/Pwn
 
 [@Domian](https://blog.52szu.tech/)/Misc/Web
+
+[@Examine](https://examine2.top/)/Misc/Web
+
+
 
 ## Q&A
 
